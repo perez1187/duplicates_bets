@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "balmy-limiter-260300",
+  "private_key_id": "399de3088c86ed0678b494e0f0ab301326f5fe35",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPVHw69LwgcC3o\nzjUSJUZluL0UszANaEbJhxSwXagh/yNlV1Znr2CZCw2Dpw0NxJciSJJNeqKQkneh\nd77D9Nbd2SitK8r0tVM+q0KSMC+WKZq0QhAolWj9RKUmG82Dz8xt7+jDWpl1wIs+\nwvxpmemkSZlXHki5Ykwxq1U856a/DhMt0qznnEqkyFsI5MUduPweN0CdaoLEkNAr\nfJdb93/eU8V+QNFMw7LXiF/UCnwSkW3kdkSEjZfco+UCnboEwKzQG4uh1aK4G9t5\n4sAoNrxt7RFza14dtQ9NHuwPtChRNjEF4WwBmw0SidA4hcGECR4LSgrlDFRBms3s\n9qxIHYD1AgMBAAECggEACsKjv/DmYqNFKV6qZSAHdfgPOCfPR/gwKagXwXTa6QjI\n2YBIPRFeaL2oxzsVnlqkTWSJfflDaVAbYrHy9ftFu4stupnElXa5Cfjxd4zbVhEg\nClhIu70lZHT6QplmzSnXvkzuk6pRafRtmvrxBroKOjs8+McwQbmBotegO4z6Rn1o\nhngZ1zpfoTAxGldtIhUHMMdNhX4aDI++ihKk01OSLAecMp8/CZsCusKZ/MmkKlWG\niX3QtdVFYvok3oLdtD7HuYbXUqSbaVrc2IFVEdnTmzD8ilc91tdWB2throgKQuov\n+HOC6O7h0N1M/L85BUjNlQNqMIjbRraKGkD9e+9J8QKBgQD5mQc6ydy0p+SUwEld\ngguLjkYHx48poVzorOqR+wuvYEV6O/vCViTa/YKVmAic7EMlzEPvG9nOXFaucTx+\nJsR7kzDi0g5UiqrG0XX67AbNlYGyFBmnvCAIoPCFw5MDBprnE1pCMm747tppip0Z\nxTuQ3TtXar5iXTuzBIFOcCVGewKBgQDUpehspbXWWNOLsAfs9rxL5dt5GgZVbLoL\nFU/FTjnGsBkdbipwvkTNLmtkHwiGCcdXhcFfEb98nLydyBePBrEhdZ+hxo0llnC2\n4ChPyJBDKlzxIp9FhznwyfrvowF5kOuN/RqhMhXk/h6Nj/zk0m9nz/Oqcyae7sWa\nsqMlrULzTwKBgQCOIxgb4WKfOlEQaKQe7PS4J3A38+vSEENBeV8nfKg92fwWzNvk\n4nugfeeEWwzkmCLw/m7dVqXlP25ZbsC9MkSH/t1C/c4NVN5F1Hh0ST7iijZOe+XU\nQGyZnVT7R9GLUpKZ7spikifh+NtGaRpn14rBR0sI0A/VIjTiEDm2umRvywKBgCse\nbS/Ctkl9f3/etOy2512YgVVgEpK11k+zBZbjktGYGa+fDBoKatcUJ5CIvmi3iOVV\naO2HIsX43kI8NZK576byO+lI4owRok9iyqnK6H3GFEyNEbC+h+AshKac7gqheTI0\ndXbkOg5R/Q4FeWlIxnBNeYJBkT4++nCw8mYMaPv/AoGAMNIU69BbAzu/2toZUarh\n1Zr0XPipn2OC/oj6V0TociX4ZpDykwzE7rmk3PgcdOAEpHAtivevOL8GY9JDVz77\ngt29EFDrpj69JUnSH72E+lN03bgL0Gz1kIvzLS1xphp7SRsWxF/oyKd/a731Y2NV\nqHauDxOxeIk1KLOKfuU3ayM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "testing-sheets@balmy-limiter-260300.iam.gserviceaccount.com",
+  "client_id": "105485184577358515819",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/testing-sheets%40balmy-limiter-260300.iam.gserviceaccount.com"
+}
